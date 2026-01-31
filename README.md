@@ -50,6 +50,12 @@
  <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/bb88d2b3-46fb-4f47-9f94-c1091a8fbe88" />
  <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/5e3e2ecd-96c6-476a-9073-95e5aac42922" />
  <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/a7e7f07c-2fdd-4c12-9da3-ab1f56588490" />
+<h2 id="cs">Database-Snippets</h2>
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/ae326597-d290-4c98-8f30-51e2d876a338" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/11d9a2d5-6711-46ed-9429-3a4271f2dfce" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/ebac5b58-3b6f-4706-80e6-3aa7b987200c" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/0aa340df-8e98-4b2d-bba6-78f10790a708" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/a665435d-f053-4a9c-9930-4b6b286a0b21" />
 
 
 
